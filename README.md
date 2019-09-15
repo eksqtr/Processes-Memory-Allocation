@@ -17,7 +17,7 @@
 ---
 
 ### This program uses: 
-- Indexed Array
+- Multidimensional Array
 - Loops
 - Conditional Statement
 - Methods / Functions
