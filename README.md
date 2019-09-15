@@ -5,7 +5,7 @@
 
 ---
 ### A program that will display the status of the main memory as process loads into the Main Memory by First/Best/Worst Fit
-
+> The main memory was divided into 25 blocks (block 0 - block 24) and a process occupies a contiguous blocks.
 
 **Process properties:**
 - **ID**
