@@ -59,7 +59,7 @@ public class LabExercise3 {
 			{
 				System.out.println((x+1) + ": "+ mainMenu[x]);
 			}
-			int seriesIndex, y, count = 0;
+			int seriesIndex, count = 0;
 			
 			System.out.println("");
 			for(seriesIndex = 0; seriesIndex < series.length; seriesIndex++)
